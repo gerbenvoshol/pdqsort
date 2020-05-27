@@ -1,7 +1,8 @@
- pdqsort.h - v1.0 - Public Domain QuickSORT -- public domain
-                    no warranty is offered or implied; use this code at your own risk
+ pdqsort.h - v1.0
+ 
+ Public Domain QuickSORT -- public domain -- no warranty is offered or implied; use this code at your own risk
 
-     This is a single header file with a public domain Quicksort implementation 
+ This is a single header file with a public domain Quicksort implementation 
 
  ============================================================================
      Just include the file, like this:
