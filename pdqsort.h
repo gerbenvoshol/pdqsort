@@ -26,7 +26,7 @@
  CREDITS
  Remi Dufour for the initial QuickSORT implementation (Public domain)
 
- Written by Gerben Voshol.
+ Adapted by Gerben Voshol to macro style C include.
 */
 
 #include <limits.h> // CHAR_BIT
