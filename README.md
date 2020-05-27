@@ -26,6 +26,7 @@
  publish, and distribute this file as you see fit.
 
  CREDITS
+ 
  Remi Dufour for the initial QuickSORT implementation (Public domain)
 
- Adapted by Gerben Voshol.
+ Adapted by Gerben Voshol to macro style C include.
