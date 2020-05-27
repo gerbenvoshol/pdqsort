@@ -5,6 +5,7 @@
  This is a single header file with a public domain Quicksort implementation 
 
  ============================================================================
+     
      Just include the file, like this:
 
             #include "pdqsort.h"
